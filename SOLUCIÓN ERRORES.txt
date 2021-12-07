@@ -1,4 +1,4 @@
-NOTA:
+
 Ver el video paso a paso ya que si se saltan algo mínimo no les va funcionar el proceso, antes de iniciar el paso del (CMD) se debe estar conectados a internet y ejecutarlo como (ADMINISTRADOR)
 *******************************************************************************************
 
