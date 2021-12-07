@@ -1,0 +1,21 @@
+jose.olmos@control-pos.com
+
+Contraseña:
+
+controlpos
+
+Servidor entrante:
+
+p3plcpnl0861.prod.phx3.secureserver.net
+
+·         IMAP Port: 993
+
+·         POP3 Port: 995
+
+Outgoing Server:
+
+p3plcpnl0861.prod.phx3.secureserver.net
+
+·         SMTP Port: 465
+
+Se requiere autenticación para IMAP, POP3 y SMTP.
